@@ -1,6 +1,6 @@
-# 🐢 Turtle Art Playground
+# 🐢 Art Turtle
 
-Welcome to the **Turtle Art Playground**, a fun and visual Python app where you control a turtle to create digital drawings using keyboard input and colorful brushes.
+Welcome to the **Art Turtle**, a fun and visual Python app where you control a turtle to create digital drawings using keyboard input and colorful brushes.
 
 This project is a modern, extended version of a beginner turtle art app I made when I first started learning Python. It now supports saving projects, loading previous work, color selection, shape changes, and exporting artwork as PNG images.
 
